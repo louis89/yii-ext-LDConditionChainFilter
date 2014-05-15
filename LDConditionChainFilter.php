@@ -2,7 +2,7 @@
 /**
  * LDConditionChainFilter class file
  * 
- * @author Louis DaPrato <l.daprato@gmail.com>
+ * @author Louis A. DaPrato <l.daprato@gmail.com>
  */
 
 /**
@@ -124,7 +124,7 @@
  * @property $onNoMatchCallback callback A callback that is called whenever no conditions could be matched.
  * @property $conditions string|array mappings and request conditions for forwarding actions that this filter has been applied to.
  * 
- * @author Louis DaPrato <l.daprato@gmail.com>
+ * @author Louis A. DaPrato <l.daprato@gmail.com>
  */
 class LDConditionChainFilter extends CFilter
 {
@@ -427,7 +427,7 @@ class LDConditionChainFilter extends CFilter
 /**
  * LDCondition a compiled condition.
  * 
- * @author Louis DaPrato <l.daprato@gmail.com>
+ * @author Louis A. DaPrato <l.daprato@gmail.com>
  */
 class LDCondition
 {
